@@ -1,5 +1,5 @@
 {
-    "name": "VISHNU ダ MUSIC",
+    "name": "vcmusicbot135",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/c5f505e616131f32ff395.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot",
-        "value": "VISHNU ダ MUSIC",
+        "value": "vcmusicbot135",
         "required": true
       },
       "OWNER_ID": {
