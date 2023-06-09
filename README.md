@@ -45,7 +45,7 @@
 <a href="https://telegram.me/vpvpofficial"><img src="https://img.shields.io/badge/Join-Group%20Support-indigo.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/vp11293"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
  • • • •━━༺ᴄʀᴇᴅɪᴛs༻━━ • • •
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-green?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
-<a href="https://github.com/Vishnupriyang"> <img src="https://img.shields.io/badge/Arnavsingh-purple?style=for-the-badge&logo=github" alt="Arnavsingh" /> </a>
+<a href="https://github.com/Vishnupriyang"> <img src="https://img.shields.io/badge/Vishnu-purple?style=for-the-badge&logo=github" alt="Vishnu" /> </a>
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-red?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-indigo?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 </p>
