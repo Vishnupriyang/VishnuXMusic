@@ -109,7 +109,7 @@ async def generate_thumb(videoid,bot_name):
             font4 = ImageFont.truetype('assets/font2.ttf', 35)
 
             image4 = ImageDraw.Draw(image2)
-            image4.text((15, 10), "ARNAV MUSICS", fill="white", stroke_width=1, stroke_fill="white",font = font3, align ="left") 
+            image4.text((15, 10), "VISHNU MUSICS", fill="white", stroke_width=1, stroke_fill="white",font = font3, align ="left") 
             image4.text((670, 150), "NOW PLAYING", fill="white", font = font2, stroke_width=2, stroke_fill="white", align ="left") 
 
             # title
