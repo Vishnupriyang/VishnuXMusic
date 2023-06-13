@@ -7,7 +7,7 @@
 <h2 align="centre">---- ᴀʀɴᴀᴠ ✘ ᴍᴜsɪᴄ ---- </h2>
 
 
-<p align="center"><a href="https://t.me/link_copied"><img src="https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/vpvpofficial"><img src="https://telegra.ph/file/c605fbc2890eb47947159.jpg" width="300"></a></p>
 <p align="center">
     
 
@@ -38,7 +38,7 @@
 ʙᴜɪʟᴅ ʟᴏɢs ᴀɴᴅ ᴄʜᴇᴄᴋ
 build logs!</i>
 
-<p align="center"><a href="https://t.me/Arnavserver"><img src="https://img.shields.io/badge/ᴡᴏʀᴋꜰʟᴏꜱ%20ᴅᴇᴘʟᴏʏ-yellow?style=for-the-badge&logo=github" width="200""/></a>
+<p align="center"><a href="https://t.me/vpvpofficial"><img src="https://img.shields.io/badge/ᴡᴏʀᴋꜰʟᴏꜱ%20ᴅᴇᴘʟᴏʏ-yellow?style=for-the-badge&logo=github" width="200""/></a>
 </pre>
 
 ## ♨️ ᴏᴋᴛᴇᴛᴏ ᴅᴇᴘʟʟᴏᴍᴇɴᴛ
@@ -47,7 +47,7 @@ build logs!</i>
 </i>Click The Button Below
 ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ!</i>
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Xdarnav/ArnavXMusic"><img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴏᴋᴛᴇᴛᴏ-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Vishnupriyang/VishnuXMusic"><img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴏᴋᴛᴇᴛᴏ-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 </pre>
 
 ## ᴅᴇᴘʟᴏʏ ᴛᴏ Railway 🚄
@@ -56,7 +56,7 @@ build logs!</i>
 ɴᴇᴄᴄᴇssᴏʀʏ ᴠᴀʀɪᴇʙʟᴇs ʜᴇʀᴇ 
 ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ғɪʟʟ ᴀɴᴅ ᴇɴᴊᴏʏ.</i>
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Xdarnav/ArnavXMusic&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20Railway-red?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Vishnupriyang/VishnuXMusic&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20Railway-red?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 </pre>
 
 ### 🧜‍♀️ ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ ✨
