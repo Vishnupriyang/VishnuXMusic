@@ -4,7 +4,7 @@
 🧜‍♀️ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀʀɴᴀᴠ Music ʙᴏᴛ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 💘🥀
 • - - - -- - ☆- - -  - - •• - - - - - ☆- - - - - •
 
-<h2 align="centre">---- ᴀʀɴᴀᴠ ✘ ᴍᴜsɪᴄ ---- </h2>
+<h2 align="centre">---- 𝐕𝐢𝐬𝐡𝐮 𝐌𝐮𝐬𝐢𝐜 ---- </h2>
 
 
 <p align="center"><a href="https://t.me/vpvpofficial"><img src="https://telegra.ph/file/c605fbc2890eb47947159.jpg" width="300"></a></p>
